@@ -1,0 +1,65 @@
+﻿@model TruyumOnline.Models.Items
+
+@{
+    ViewData["Title"] = "AddNewItem";
+}
+
+<h1>AddNewItem</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddNewItem">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ItemName" class="control-label">Name</label>
+                <input asp-for="ItemName" class="form-control" pattern="[a-zA-Z]{2,65}"  required />
+                <span asp-validation-for="ItemName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label">Price</label>
+                <input asp-for="Price" class="form-control"  pattern="[0-9]{1,7}" required />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Active" class="control-label"></label>
+
+                <div class="col-md-6 form-inline">
+                    <input asp-for="Active" type="radio" class="form-control" value="Yes" required  />Yes
+                    &nbsp;&nbsp; <input asp-for="Active" type="radio" class="form-control" value="No" />No
+                </div>
+
+                <span asp-validation-for="Active" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Category" class="control-label"></label>
+                <select asp-for="Category" class="form-control" required>
+                    <option value="select" selected="" disabled>Select..</option>
+                    <option value="Starters">Starters</option>
+                    <option value="MainCourse">MainCourse</option>
+                    <option value="Drinks">Drinks</option>
+                </select>
+                <span asp-validation-for="Category" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FreeDelivery" class="control-label"></label>
+                <select asp-for="FreeDelivery" class="form-control"  required>
+                    <option value="select" selected="" disabled>Choose..</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+                <span asp-validation-for="FreeDelivery" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="MenuList" asp-controller="Admin">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<TruyumOnline.Models.Items>
+
+@{
+    ViewData["Title"] = "MenuList";
+}
+
+<h1>Menu Items</h1>
+
+<p>
+    <a asp-action="AddNewItem">Add New Item</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ItemName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Active)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "ModifyMenuItems", new {  id=item.ItemId  }) |
+                @Html.ActionLink("Details", "GetMenuItemById", new {  id=item.ItemId  }) |
+                @Html.ActionLink("Delete", "DeleteMenuItem", new {  id=item.ItemId  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

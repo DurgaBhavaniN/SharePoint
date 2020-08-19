@@ -1,0 +1,378 @@
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\appsettings.json
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.exe
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.csprojAssemblyReference.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorAssemblyInfo.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorAssemblyInfo.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.AssemblyInfoInputs.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.AssemblyInfo.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.TagHelpers.input.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.TagHelpers.output.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorCoreGenerate.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorTargetAssemblyInfo.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorTargetAssemblyInfo.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\staticwebassets\TruyumOnline.StaticWebAssets.Manifest.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\staticwebassets\TruyumOnline.StaticWebAssets.xml
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.csproj.CopyComplete
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.deps.json
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.runtimeconfig.json
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.runtimeconfig.dev.json
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.pdb
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.Views.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.Views.pdb
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.csproj.CoreCompileInputs.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.MvcApplicationPartsAssemblyInfo.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.Views.pdb
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.dll
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.pdb
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.genruntimeconfig.cache
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddNewItem.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ModifyMenuItemAdmin.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetMenuItemAdminById.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DeleteMenuItemAdmin.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\GetAllActiveItems.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserLogin.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Cart.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\GetAllCartItems.cshtml.g.cs
+F:\SharePoint\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DeleteCartItem.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.exe
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.deps.json
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.runtimeconfig.json
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.runtimeconfig.dev.json
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.pdb
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.Views.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.Views.pdb
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.csprojAssemblyReference.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.csproj.CoreCompileInputs.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorAssemblyInfo.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorAssemblyInfo.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.AssemblyInfoInputs.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.AssemblyInfo.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.TagHelpers.input.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.TagHelpers.output.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorCoreGenerate.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddNewItem.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DeleteCartItem.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\GetAllCartItems.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserLogin.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorTargetAssemblyInfo.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorTargetAssemblyInfo.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.Views.pdb
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.csproj.CopyComplete
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\staticwebassets\TruyumOnline.StaticWebAssets.Manifest.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\staticwebassets\TruyumOnline.StaticWebAssets.xml
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.dll
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.pdb
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.genruntimeconfig.cache
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DeleteMenuItem.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetMenuItemById.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MenuList.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddToCart.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\GetAllItems.cshtml.g.cs
+C:\Users\durga\Downloads\SharePoint-master\SharePoint-master\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ModifyMenuItems.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.exe
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.deps.json
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.runtimeconfig.json
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.runtimeconfig.dev.json
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.pdb
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.Views.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\TruyumOnline.Views.pdb
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Pratice CaseStudy\TruyumOnline\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.csprojAssemblyReference.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.csproj.CoreCompileInputs.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.MvcApplicationPartsAssemblyInfo.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorAssemblyInfo.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorAssemblyInfo.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.AssemblyInfoInputs.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.AssemblyInfo.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.TagHelpers.input.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.TagHelpers.output.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorCoreGenerate.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddNewItem.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DeleteMenuItem.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetMenuItemById.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MenuList.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ModifyMenuItems.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddToCart.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DeleteCartItem.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\GetAllCartItems.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Customer\GetAllItems.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserLogin.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorTargetAssemblyInfo.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.RazorTargetAssemblyInfo.cs
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.Views.pdb
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.csproj.CopyComplete
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\staticwebassets\TruyumOnline.StaticWebAssets.Manifest.cache
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\staticwebassets\TruyumOnline.StaticWebAssets.xml
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.dll
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.pdb
+E:\Pratice CaseStudy\TruyumOnline\obj\Debug\netcoreapp3.1\TruyumOnline.genruntimeconfig.cache

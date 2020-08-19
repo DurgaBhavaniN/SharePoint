@@ -1,0 +1,63 @@
+﻿@model IEnumerable<TruyumOnline.Models.Cart>
+
+@{
+    ViewData["Title"] = "GetAllCartItems";
+}
+
+<h1>Cart</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.ItemName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FreeDelivery)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @{int Total = 0;}
+@foreach (var item in Model) {
+    Total += Convert.ToInt32(item.Price);
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Active)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FreeDelivery)
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "DeleteCartItem", new {  id=item.CartItemId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div>
+    <h4>Total:@Total</h4>
+</div>
+<div>
+    <a asp-action="GetAllItems">Back to List</a>
+</div>
